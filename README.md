@@ -14,8 +14,8 @@ La técnica implementada para la resolución del problema es Hill-Climbing Mejor
 
 + Lenguaje de programación C
 + Uso de memoria dinámica
-+Entrada: Archivo de texto plano csp.txt que incluye: Nro Autos, Nro Opciones (Ventanas, tapizado de cuero, aire acondicionado, etc), Nro Clases (Modelos de los vehículos diseñados).
-+Salida: csp.txt con la solución. 
++ Entrada: Archivo de texto plano csp.txt que incluye: Nro Autos, Nro Opciones (Ventanas, tapizado de cuero, aire acondicionado, etc), Nro Clases (Modelos de los vehículos diseñados).
++ Salida: csp.txt con la solución. 
 
 
 #### Ejemplo de archivo de entrada.
