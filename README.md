@@ -18,7 +18,7 @@ La técnica implementada para la resolución del problema es Hill-Climbing Mejor
 +Salida: csp.txt con la solución. 
 
 
-#### Ejemplo de archivo de entrada. (Ver en RAW para el formato)
+#### Ejemplo de archivo de entrada.
 ```
 200 5 25
 1 2 1 2 1 
@@ -57,7 +57,7 @@ La técnica implementada para la resolución del problema es Hill-Climbing Mejor
 +Siguientes líneas: Número de la clase - vehículos por clase - 0 ó 1 para indicar si la clase requiere instalar tal opción. 
 
 
-#### Ejemplo de archivo de salida. (Ver en RAW para el formato)
+#### Ejemplo de archivo de salida.
 ```
 Cantidad de restricciones violadas (solucion Greedy): 85
 Tiempo de ejecucion :113.126 milisegundos
