@@ -12,13 +12,13 @@ La técnica implementada para la resolución del problema es Hill-Climbing Mejor
 
 ## Características del algoritmo
 
-+ Lenguaje de programación C
-+ Uso de memoria dinámica
++ Lenguaje de programación C.
++ Uso de memoria dinámica.
 + Entrada: Archivo de texto plano csp.txt que incluye: Nro Autos, Nro Opciones (Ventanas, tapizado de cuero, aire acondicionado, etc), Nro Clases (Modelos de los vehículos diseñados).
 + Salida: csp.txt con la solución. 
 
 
-#### Ejemplo de archivo de entrada.
+#### Ejemplo de archivo de entrada
 ```
 200 5 25
 1 2 1 2 1 
@@ -50,14 +50,14 @@ La técnica implementada para la resolución del problema es Hill-Climbing Mejor
 24 3 1 1 1 1 0
 ```
 
-**Descripción**
-+Primera línea: No de autos, No de opciones, No de clases.
-+Segunda línea: Restricciones a cumplir por la línea de producción, donde cada número corresponde a la máxima cantidad de vehículos en un bloque, que puede tener esa opción.
-+Tercera línea: Por cada opción, se indica el tamaño del bloque de vehículos.
-+Siguientes líneas: Número de la clase - vehículos por clase - 0 ó 1 para indicar si la clase requiere instalar tal opción. 
+*Descripción*
++ Primera línea: No de autos, No de opciones, No de clases.
++ Segunda línea: Restricciones a cumplir por la línea de producción, donde cada número corresponde a la máxima cantidad de vehículos en un bloque, que puede tener esa opción.
++ Tercera línea: Por cada opción, se indica el tamaño del bloque de vehículos.
++ Siguientes líneas: Número de la clase - vehículos por clase - 0 ó 1 para indicar si la clase requiere instalar tal opción. 
 
 
-#### Ejemplo de archivo de salida.
+#### Ejemplo de archivo de salida
 ```
 Cantidad de restricciones violadas (solucion Greedy): 85
 Tiempo de ejecucion :113.126 milisegundos
